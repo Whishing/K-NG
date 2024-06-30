@@ -7,6 +7,7 @@ Official code of "Few-shot Online Anomaly Detection and Segmentation"
 ## Installation
 Create a Conda environment with [miniconda](https://docs.conda.io/en/latest/miniconda.html).
 
+Since some pytorch API has been changed, please do **NOT** use the latest pytorch version!
 ```bash
 conda create -n kng python=3.7
 conda activate kng
