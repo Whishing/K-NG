@@ -15,6 +15,12 @@ pip install torch==1.8.0+cu111 torchvision==0.9.0+cu111 torchaudio==0.8.0 -f htt
 pip install -r requirements.txt
 ```
 
+## Running
+You can train a model for different dataset by specifying `--data_path`: 
+
+```bash
+CUDA_VISIBLE_DEVICES=0 python Konline.py --data_path ../datasets/MVTec-AD
+```
 
 ## Citation
 If you find our work useful in your research, please consider citing:
