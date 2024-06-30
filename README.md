@@ -1,7 +1,13 @@
-# Few-shot Online Anomaly Detection and Segmentation
-Official code of "Few-shot Online Anomaly Detection and Segmentation"
-If our work is helpful to you, please kindly cite our paper as:
+[![arXiv](https://img.shields.io/badge/arXiv-2305.16404-b31b1b.svg)](https://arxiv.org/abs/2403.18201)
+[![License CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC4.0-blue.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 
+## Few-shot Online Anomaly Detection and Segmentation
+Official code of "Few-shot Online Anomaly Detection and Segmentation"
+
+### Citation
+If you find our work useful in your research, please consider citing:
+
+``` shell script
 @article{wei2024few,
   title={Few-shot online anomaly detection and segmentation},
   author={Wei, Shenxing and Wei, Xing and Ma, Zhiheng and Dong, Songlin and Zhang, Shaochen and Gong, Yihong},
@@ -10,3 +16,4 @@ If our work is helpful to you, please kindly cite our paper as:
   year={2024},
   publisher={Elsevier}
 }
+```
