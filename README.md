@@ -14,7 +14,7 @@ pip install -r requirements.txt
 ```
 
 
-### Citation
+## Citation
 If you find our work useful in your research, please consider citing:
 
 ``` shell script
