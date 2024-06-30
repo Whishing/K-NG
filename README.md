@@ -4,6 +4,16 @@
 ## Few-shot Online Anomaly Detection and Segmentation
 Official code of "Few-shot Online Anomaly Detection and Segmentation"
 
+## Installation
+Create a Conda environment with [miniconda](https://docs.conda.io/en/latest/miniconda.html).
+
+```bash
+conda create -n kng python=3.7
+conda activate kng
+pip install -r requirements.txt
+```
+
+
 ### Citation
 If you find our work useful in your research, please consider citing:
 
