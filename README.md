@@ -15,6 +15,11 @@ pip install torch==1.8.0+cu111 torchvision==0.9.0+cu111 torchaudio==0.8.0 -f htt
 pip install -r requirements.txt
 ```
 
+## Data Preprocess
+Download [MVTecAD dataset](https://www.mvtec.com/company/research/datasets/mvtec-ad). 
+For each subclass in the dataset, reserving the first ten images in training set and move others into test set. (eg. for bottles, reserve the first ten images in 
+Your_path/MVTec-AD/bottle/train/good and move others into Your_path/MVTec-AD/bottle/test/good). 
+
 ## Running
 You can train a model for different dataset by specifying `--data_path`: 
 
