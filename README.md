@@ -1,9 +1,8 @@
-[![arXiv](https://img.shields.io/badge/arXiv-2305.16404-b31b1b.svg)](https://arxiv.org/abs/2403.18201)
-[![License CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC4.0-blue.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
-
 ## Few-shot Online Anomaly Detection and Segmentation
 Official code of "Few-shot Online Anomaly Detection and Segmentation"
 
+[![arXiv](https://img.shields.io/badge/arXiv-2305.16404-b31b1b.svg)](https://arxiv.org/abs/2403.18201)
+[![License CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC4.0-blue.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 ## Installation
 Create a Conda environment with [miniconda](https://docs.conda.io/en/latest/miniconda.html).
 
